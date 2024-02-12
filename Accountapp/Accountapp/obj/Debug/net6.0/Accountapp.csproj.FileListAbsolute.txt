@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\DARSHAN UNIVERSITY\LAB\sem 6\Account\Accountapp\Accountapp\bin\Debug\net6.0\appsettings.Development.json
 D:\DARSHAN UNIVERSITY\LAB\sem 6\Account\Accountapp\Accountapp\bin\Debug\net6.0\appsettings.json
 D:\DARSHAN UNIVERSITY\LAB\sem 6\Account\Accountapp\Accountapp\bin\Debug\net6.0\Accountapp.staticwebassets.runtime.json
@@ -29,3 +30,36 @@ D:\DARSHAN UNIVERSITY\LAB\sem 6\Account\Accountapp\Accountapp\obj\Debug\net6.0\r
 D:\DARSHAN UNIVERSITY\LAB\sem 6\Account\Accountapp\Accountapp\obj\Debug\net6.0\Accountapp.pdb
 D:\DARSHAN UNIVERSITY\LAB\sem 6\Account\Accountapp\Accountapp\obj\Debug\net6.0\Accountapp.genruntimeconfig.cache
 D:\DARSHAN UNIVERSITY\LAB\sem 6\Account\Accountapp\Accountapp\obj\Debug\net6.0\ref\Accountapp.dll
+=======
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\bin\Debug\net6.0\appsettings.Development.json
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\bin\Debug\net6.0\appsettings.json
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\bin\Debug\net6.0\Accountapp.staticwebassets.runtime.json
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\bin\Debug\net6.0\Accountapp.exe
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\bin\Debug\net6.0\Accountapp.deps.json
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\bin\Debug\net6.0\Accountapp.runtimeconfig.json
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\bin\Debug\net6.0\Accountapp.dll
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\bin\Debug\net6.0\Accountapp.pdb
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\Accountapp.csproj.AssemblyReference.cache
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\Accountapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\Accountapp.AssemblyInfoInputs.cache
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\Accountapp.AssemblyInfo.cs
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\Accountapp.csproj.CoreCompileInputs.cache
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\Accountapp.MvcApplicationPartsAssemblyInfo.cache
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\Accountapp.RazorAssemblyInfo.cache
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\Accountapp.RazorAssemblyInfo.cs
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\staticwebassets\msbuild.Accountapp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\staticwebassets\msbuild.build.Accountapp.props
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Accountapp.props
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Accountapp.props
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\staticwebassets.build.json
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\staticwebassets.development.json
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\scopedcss\bundle\Accountapp.styles.css
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\scopedcss\projectbundle\Accountapp.bundle.scp.css
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\Accountapp.dll
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\refint\Accountapp.dll
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\Accountapp.pdb
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\Accountapp.genruntimeconfig.cache
+D:\darshan university\Sem 6\ADV .NET\Account\Accountapp\Accountapp\obj\Debug\net6.0\ref\Accountapp.dll
+>>>>>>> f15d3fe18c5ab3015e30cf910ae723a9115d7f9a
