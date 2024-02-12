@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QYU7D8n5uuWlmPec41fu0JvBP/Hhc4vdyoMX5RJlxmaE7cMqTABJ5ZsU/ENBRA/vw/f8fDeipsCh3Y6+Afufng==",
+  "dgSpecHash": "xCiYNoNHX6kv+5eWozdgg6xlwpiYKaj0NHz2ZKZw72t7d8p9i21IzFLRCqMuADa8slVdaui79lfp6Bx7mSbfIw==",
   "success": true,
-  "projectFilePath": "D:\\darshan university\\Sem 6\\ADV .NET\\Account\\Accountapp\\Accountapp\\Accountapp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\DARSHAN UNIVERSITY\\LAB\\sem 6\\Account\\Accountapp\\Accountapp\\Accountapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
