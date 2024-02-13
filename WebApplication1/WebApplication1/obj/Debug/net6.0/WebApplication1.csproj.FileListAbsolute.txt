@@ -254,6 +254,7 @@ D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin
 D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+<<<<<<< HEAD
 D:\DARSHAN UNIVERSITY\LAB\sem 6\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\Humanizer.dll
 D:\DARSHAN UNIVERSITY\LAB\sem 6\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\MessagePack.dll
 D:\DARSHAN UNIVERSITY\LAB\sem 6\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\MessagePack.Annotations.dll
@@ -449,3 +450,24 @@ D:\DARSHAN UNIVERSITY\LAB\sem 6\Account\WebApplication1\WebApplication1\bin\Debu
 D:\DARSHAN UNIVERSITY\LAB\sem 6\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\DARSHAN UNIVERSITY\LAB\sem 6\Account\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
 D:\DARSHAN UNIVERSITY\LAB\sem 6\Account\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+=======
+D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Data.Odbc.dll
+D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Data.OleDb.dll
+D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\Unity.Abstractions.dll
+D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\Unity.Interception.dll
+D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\darshan university\Sem 6\ADV .NET\Account\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+>>>>>>> 6d86abb42179b05ad0a18e0aa17c7d78b4f5d4d8
