@@ -23,7 +23,7 @@ namespace WebApplication1.Areas.AccountCategory.Controllers
         {
             MultipartFormDataContent dataContent = new MultipartFormDataContent();
 
-            dataContent.Add("LOC","InstituteCode");
+            dataContent.Add("InstituteCode");
             dataContent.Add("PageOffset");
             dataContent.Add("PageSize");
             List<AccountCategoryModel> accountcategorymodels = new List<AccountCategoryModel>();
