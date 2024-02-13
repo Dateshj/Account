@@ -1,4 +1,11 @@
-﻿<h1>this is account category list page 123</h1>
+﻿@model IEnumerable<WebApplication1.Areas.AccountCategory.Models.AccountCategoryModel>;
+@using WebApplication1.Areas.AccountCategory.Models;
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h1>this is account category list page 123</h1>
 
 
 
@@ -10,28 +17,25 @@
         </tr>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.BookingID)
+                @Html.DisplayNameFor(model => model.AccountCategoryID)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.CheckInDate)
+                @Html.DisplayNameFor(model => model.AccountCategoryName)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.CheckOutDate)
+                @Html.DisplayNameFor(model => model.Remarks)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.NoOfAdult)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.NoOfChildren)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.TotalAmount)
+                @Html.DisplayNameFor(model => model.UserName)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Created)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Modified)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserID)
             </th>
             <th colspan="2" style="text-align: center">Action</th>
         </tr>
@@ -41,22 +45,16 @@
         {
             <tr>
                 <td>
-                    @Html.DisplayFor(modelItem => item.BookingID)
+                    @Html.DisplayFor(modelItem => item.AccountCategoryID)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.CheckInDate)
+                    @Html.DisplayFor(modelItem => item.AccountCategoryName)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.CheckOutDate)
+                    @Html.DisplayFor(modelItem => item.Remarks)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.NoOfAdult)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.NoOfChildren)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.TotalAmount)
+                    @Html.DisplayFor(modelItem => item.UserName)
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.Created)
@@ -64,16 +62,19 @@
                 <td>
                     @Html.DisplayFor(modelItem => item.Modified)
                 </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserID)
+                </td>
                 
 
-                <td>
+                @*<td>
                     <a href="@Url.Action("Edit","Booking",new {BookingID=item.BookingID})" class="btn btn-outline-primary">Edit</a>
                 </td>
                 <td>
                     <a href="@Url.Action("Delete","Booking",new {BookingID=item.BookingID})" class="btn btn-outline-danger" onclick="DeletePopUp()">
                         Delete
                     </a>
-                </td>
+                </td>*@
             </tr>
         }
     </tbody>

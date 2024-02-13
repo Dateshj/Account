@@ -18,10 +18,16 @@ namespace WebApplication1.Areas.AccountCategory.Controllers
         }
         
         private HttpClient client = new HttpClient();
+        [HttpPost]
         public IActionResult AccountCategoryListPage()
         {
+            MultipartFormDataContent dataContent = new MultipartFormDataContent();
+
+            dataContent.Add("LOC","InstituteCode");
+            dataContent.Add("PageOffset");
+            dataContent.Add("PageSize");
             List<AccountCategoryModel> accountcategorymodels = new List<AccountCategoryModel>();
-            HttpResponseMessage response = client.GetAsync($"https://testapi.gncms.in/AccountCategorySelectPage/CommonAccount/getAccountCategorySelectPage").Result;
+            HttpResponseMessage response = client.PostAsync($"https://testapi.gncms.in/AccountCategorySelectPage/CommonAccount/getAccountCategorySelectPage").Result;
             if (response.IsSuccessStatusCode)
             {
                 string data = response.Content.ReadAsStringAsync().Result;
